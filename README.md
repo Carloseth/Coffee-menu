@@ -1,3 +1,3 @@
 # Coffee-menu
 Visit here:
-https://vercel.com/carloseth/coffee-menu-krwr/3Z48zSDq89uCBJCEQ9E6FAQqvfAY
+https://coffee-menu-krwr-dg5cvfuwf-carloseth.vercel.app/
